@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34228361382",
+    "project_id": "pam-uksw2-cdb71",
+    "storage_bucket": "pam-uksw2-cdb71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34228361382:android:a084335e2a88dd65b1fc67",
+        "android_client_info": {
+          "package_name": "com.example.pam_gmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34228361382-th4u12isncivkh8vmk1rli0uuvskr739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsZTCfHDAj68JozGV797ldrL5nQOeDl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34228361382-th4u12isncivkh8vmk1rli0uuvskr739.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PAM_Gmaps</string>
+    <string name="map_key" translatable="false">AIzaSyAgc8vI1Af5ay-rsR85eQFpJp6qV23lnG0</string>
+</resources>
